@@ -1,6 +1,6 @@
 # Indication des masses de base du proton et du neutron
-masse_protons= float(1.6726 * 10**-27)
-masse_neutron= float(1.6749 * 10**-27)
+masse_protons= float(1.6726E-27)
+masse_neutron= float(1.6749E-27)
 
 
 # L'utilisateur doit entrer un nombre de protons et de neutrons
