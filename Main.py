@@ -4,8 +4,8 @@ masse_neutron = float(1.6749E-27)
 
 
 # L'utilisateur doit entrer un nombre de protons et de neutrons
-n_protons = float(input("entrer le nombre de protons:"))
-n_neutrons = float(input("entrer le nombre de neutrons:"))
+n_protons = float(input("entrez le nombre de protons: "))
+n_neutrons = float(input("entrez le nombre de neutrons: "))
 
 
 # On cherche la masse totale que représente les protons et les neutrons
