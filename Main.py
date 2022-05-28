@@ -9,8 +9,8 @@ n_neutrons = float(input("entrez le nombre de neutrons: "))
 
 
 # On cherche la masse totale que représente les protons et les neutrons
-m_p = MASSE_PROTONS*n_protons
-m_n = MASSE_NEUTRON*n_neutrons
+m_p = MASSE_PROTONS * n_protons
+m_n = MASSE_NEUTRON * n_neutrons
 
 
 # Calcul de la masse totale de l'atome
